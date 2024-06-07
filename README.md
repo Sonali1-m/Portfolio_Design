@@ -4,9 +4,6 @@ Welcome to my personal portfolio! Dive into my skills, experience, and projects.
 
 ![Portfolio Screenshot](Downloads/Portfolio_Design-main/imgs/Ss.png)
 
-## 🌐 Live Demo
-Explore the live site: [Sonali Mohanta's Portfolio](http://127.0.0.1:5500/portfolio-template-html-css-js/index.html)
-
 ## ✨ Features
 - **Responsive Design**: Flawlessly adapts to all devices.
 - **Interactive Chatbot**: Enhanced with Azure AI.

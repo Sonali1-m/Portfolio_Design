@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! Dive into my skills, experience, and projects.
 
-![Portfolio Screenshot](Downloads/Portfolio_Design-main/Portfolio_Design-main/imgs/Ss.png)
+![Portfolio Screenshot](Downloads/Portfolio_Design-main/imgs/Ss.png)
 
 ## 🌐 Live Demo
 Explore the live site: [Sonali Mohanta's Portfolio](http://127.0.0.1:5501/Portfolio_Design-main/portfolio-template-html-css-js/index.html)
